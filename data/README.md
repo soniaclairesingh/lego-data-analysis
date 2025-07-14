@@ -1,12 +1,13 @@
-# LEGO Data Analysis Project (In Progress)
+# 📊 LEGO Dataset
 
-🎯 Goal: Explore LEGO set trends by theme, part count, and release year to understand product complexity and engagement potential.
+This folder contains raw CSV files used for the LEGO Data Analysis Project.
 
-🛠️ Tools: SQL • Python • Power BI
+**Source:** [Rebrickable LEGO Dataset on Kaggle](https://www.kaggle.com/rtatman/lego-database)
 
-💡 Key Questions:
-- What themes are most complex/popular?
-- How does set size evolve over time?
-- Are nostalgic themes more enduring?
+**Files included:**
+- `sets.csv` — LEGO sets with year, number of parts, and theme ID
+- `themes.csv` — List of LEGO themes by ID
+- *(Optional later: `inventory.csv`, `parts.csv`)*
 
-📁 Status: Repo structure in place. Analysis in progress.
+These files are used for SQL queries, Python analysis, and Power BI dashboards in the main project.
+
