@@ -29,7 +29,7 @@ Visuals Created:
     Creating Seaborn plots, setting labels, rounding numbers, customizing aesthetics.  
     Using GitHub for portfolio projects, embedding images in README.  
 
-**Next Steps (ongoing)**
+**Next Steps (ongoing)**  
     Add Power BI dashboard showcasing findings.  
     Include an interactive notebook version (.ipynb).  
     Further analyze nostalgic vs. modern themes, based on year trends.  
