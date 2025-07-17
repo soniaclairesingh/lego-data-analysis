@@ -1,6 +1,6 @@
 🎯 Goal: Explore LEGO set trends by theme, part count, and release year to understand product complexity, consumer engagement, and lifecycle patterns — key considerations in supply chain planning and merchandising.
 
-🛠️ Tools: SQL • Python
+Tools: SQL • Python
 
 💡 Key Questions:
 - What themes are most complex or popular across time?
@@ -9,7 +9,7 @@
 
 📁 Status: Repo structure in place. Exploratory queries in development. 
 
-## 📊 Visuals
+## Visuals
 
 ### Top LEGO Themes by Set Count
 ![Top LEGO Themes](visuals/top_lego_themes.png)
