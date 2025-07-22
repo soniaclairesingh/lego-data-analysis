@@ -33,3 +33,5 @@ Visuals Created:
     Add Power BI dashboard showcasing findings.  
     Include an interactive notebook version (.ipynb).  
     Further analyze nostalgic vs. modern themes, based on year trends.  
+
+*Portions of this project, including drafting code comments and documentation, were supported by AI tools (e.g., ChatGPT) to enhance clarity and efficiency. All code and analysis were reviewed and curated by me.*
