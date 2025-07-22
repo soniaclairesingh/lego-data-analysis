@@ -21,3 +21,4 @@ Key Questions:
 ![Yearly Trends](visuals/yearly_trends_parts.png)
 
 
+*Portions of this project, including drafting code comments and documentation, were supported by AI tools (e.g., ChatGPT) to enhance clarity and efficiency. All code and analysis were reviewed and curated by me.*
